@@ -1,0 +1,15 @@
+.header-container {
+  position: relative;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.header-logo {
+  height: 50px;
+  margin-bottom: 20px;
+  filter: invert(100%);
+}
+
+h1.header-title {
+  font-size: 2em;
+}
